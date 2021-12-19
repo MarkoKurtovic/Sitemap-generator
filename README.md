@@ -1,6 +1,6 @@
 # Sitemap.xml generator
 
-Sitemap.xml generator for a single page website using Python and Mysql.<br>
+Sitemap.xml generator for a single page website using Python and Mysql.<br><br>
 Because online tools can't create sitemap.xml for SPA sites, I wrote a script that makes sitemap.xml from the database.
 
 ## Result
