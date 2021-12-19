@@ -4,7 +4,7 @@ Sitemap.xml generator for a single page website using Python and Mysql.
 Because online tools can't create sitemap.xml for SPA sites, I wrote a script that makes sitemap.xml from the database.
 
 ## Result
-You can check result of sitemap.xml generator used for this real estate website https://land-montenegro.com/
+You can check result of sitemap.xml generator used for real estate website:
 https://www.land-montenegro.com/sitemap.xml
 
 ### Prerequisites
